@@ -1,0 +1,582 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap");
+.index {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.index .overlap-wrapper {
+  background-color: #ffffff;
+  height: 1080px;
+  width: 1920px;
+}
+
+.index .overlap {
+  background-color: #1c1d1f;
+  height: 1081px;
+  position: relative;
+  top: -1px;
+}
+
+.index .group {
+  height: 27px;
+  left: 42px;
+  position: absolute;
+  top: 53px;
+  width: 32px;
+}
+
+.index .rectangle {
+  background-color: #ffffff;
+  border-radius: 2.41px 2.41px 2.41px 2.41px;
+  height: 5px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 32px;
+}
+
+.index .div {
+  background-color: #ffffff;
+  border-radius: 2.41px 2.41px 2.41px 2.41px;
+  height: 5px;
+  left: 0;
+  position: absolute;
+  top: 11px;
+  width: 32px;
+}
+
+.index .rectangle-2 {
+  background-color: #ffffff;
+  border-radius: 2.41px 2.41px 2.41px 2.41px;
+  height: 5px;
+  left: 0;
+  position: absolute;
+  top: 22px;
+  width: 32px;
+}
+
+.index .rectangle-3 {
+  background-color: #424242;
+  height: 27px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.index .overlap-group {
+  background-image: url(https://cdn.animaapp.com/projects/651946d21cbf2b9125241e15/releases/6519484c5c8033b4d650f8fb/img/path-237-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 953px;
+  left: 41px;
+  position: absolute;
+  top: 104px;
+  width: 1850px;
+}
+
+.index .overlap-2 {
+  height: 953px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1849px;
+}
+
+.index .line {
+  height: 907px;
+  left: 309px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 2px;
+}
+
+.index .text-wrapper {
+  color: #858687;
+  font-family: "Poppins", Helvetica;
+  font-size: 12.7px;
+  left: 20px;
+  letter-spacing: 0;
+  line-height: 15.2px;
+  position: absolute;
+  top: 923px;
+  white-space: nowrap;
+}
+
+.index .text-wrapper-2 {
+  color: #858687;
+  font-family: "Poppins", Helvetica;
+  font-size: 12.7px;
+  left: 118px;
+  letter-spacing: 0;
+  line-height: 15.2px;
+  position: absolute;
+  top: 923px;
+  white-space: nowrap;
+}
+
+.index .font-white {
+  color: #ffffff;
+}
+
+.index .text-wrapper-3 {
+  color: #858687;
+  font-family: "Poppins", Helvetica;
+  font-size: 12.7px;
+  left: 254px;
+  letter-spacing: 0;
+  line-height: 15.2px;
+  position: absolute;
+  top: 923px;
+  white-space: nowrap;
+}
+
+.index .img {
+  height: 2px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 907px;
+  width: 1848px;
+}
+
+.index .rectangle-4 {
+  background-color: #222225;
+  border: 2px solid;
+  border-color: #262729;
+  border-radius: 8px;
+  height: 953px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 311px;
+}
+
+.index .group-2 {
+  height: 277px;
+  left: 27px;
+  position: absolute;
+  top: 21px;
+  width: 196px;
+}
+
+.index .text-wrapper-4 {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 19px;
+  font-weight: 600;
+  left: 45px;
+  letter-spacing: 0;
+  line-height: 22.8px;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.index .text-wrapper-5 {
+  color: #656770;
+  font-family: "Poppins", Helvetica;
+  font-size: 19px;
+  left: 45px;
+  letter-spacing: 0;
+  line-height: 22.8px;
+  position: absolute;
+  top: 67px;
+  white-space: nowrap;
+}
+
+.index .text-wrapper-6 {
+  color: #656770;
+  font-family: "Poppins", Helvetica;
+  font-size: 19px;
+  font-weight: 400;
+  left: 45px;
+  letter-spacing: 0;
+  line-height: 22.8px;
+  position: absolute;
+  top: 128px;
+  white-space: nowrap;
+}
+
+.index .text-wrapper-7 {
+  color: #656770;
+  font-family: "Poppins", Helvetica;
+  font-size: 19px;
+  left: 45px;
+  letter-spacing: 0;
+  line-height: 22.8px;
+  position: absolute;
+  top: 249px;
+  white-space: nowrap;
+}
+
+.index .ellipse {
+  background-color: #ffffff;
+  border-radius: 15.83px;
+  height: 32px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 32px;
+}
+
+.index .ellipse-2 {
+  background-color: #868788;
+  border-radius: 15.83px;
+  height: 32px;
+  left: 0;
+  position: absolute;
+  top: 61px;
+  width: 32px;
+}
+
+.index .ellipse-3 {
+  background-color: #868788;
+  border-radius: 15.83px;
+  height: 32px;
+  left: 0;
+  position: absolute;
+  top: 123px;
+  width: 32px;
+}
+
+.index .group-3 {
+  height: 32px;
+  left: 0;
+  position: absolute;
+  top: 184px;
+  width: 120px;
+}
+
+.index .text-wrapper-8 {
+  color: #656770;
+  font-family: "Poppins", Helvetica;
+  font-size: 19px;
+  left: 45px;
+  letter-spacing: 0;
+  line-height: 22.8px;
+  position: absolute;
+  top: 4px;
+  white-space: nowrap;
+}
+
+.index .ellipse-4 {
+  background-color: #868788;
+  border-radius: 15.83px;
+  height: 32px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 32px;
+}
+
+.index .ellipse-5 {
+  background-color: #868788;
+  border-radius: 15.83px;
+  height: 32px;
+  left: 0;
+  position: absolute;
+  top: 246px;
+  width: 32px;
+}
+
+.index .text-wrapper-9 {
+  color: #858687;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  left: 20px;
+  letter-spacing: 0;
+  line-height: 19.2px;
+  position: absolute;
+  top: 921px;
+  white-space: nowrap;
+}
+
+.index .text-wrapper-10 {
+  color: #858687;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  left: 154px;
+  letter-spacing: 0;
+  line-height: 19.2px;
+  position: absolute;
+  top: 921px;
+  white-space: nowrap;
+}
+
+.index .text-wrapper-11 {
+  color: #858687;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  left: 272px;
+  letter-spacing: 0;
+  line-height: 19.2px;
+  position: absolute;
+  top: 921px;
+  white-space: nowrap;
+}
+
+.group-wrapper {
+  height: 36px;
+  left: 372px;
+  position: absolute;
+  top: 26px;
+  width: 148px;
+}
+
+.div-wrapper {
+  height: 36px;
+}
+
+.group-4 {
+  height: 36px;
+  position: relative;
+  width: 150px;
+}
+
+.text-wrapper-12 {
+  font-family: "Poppins", Helvetica;
+  font-size: 26px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 31.2px;
+  position: absolute;
+  top: 2px;
+  white-space: nowrap;
+}
+
+.overlap-3 {
+  height: 280px;
+  left: 372px;
+  position: absolute;
+  top: 119px;
+  width: 846px;
+}
+
+.group-5 {
+  height: 280px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  transition: all 0.2s ease;
+  width: 702px;
+}
+
+.overlap-group-2 {
+  border: 1px solid;
+  border-color: #393b3d;
+  border-radius: 12px;
+  height: 280px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 392px;
+}
+
+.text-wrapper-13 {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 22.4px;
+  font-weight: 600;
+  left: 154px;
+  letter-spacing: 0;
+  line-height: 26.9px;
+  position: absolute;
+  top: 197px;
+  white-space: nowrap;
+}
+
+.overlap-4 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #707070;
+  border-radius: 53px;
+  height: 105px;
+  left: 135px;
+  position: absolute;
+  top: 70px;
+  width: 105px;
+}
+
+.text-wrapper-14 {
+  color: #406cff;
+  font-family: "Poppins", Helvetica;
+  font-size: 65px;
+  font-weight: 600;
+  left: 29px;
+  letter-spacing: 0;
+  line-height: 79px;
+  position: absolute;
+  top: 11px;
+  white-space: nowrap;
+}
+
+.overlap-5 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #707070;
+  border-radius: 53px;
+  height: 105px;
+  left: 597px;
+  position: absolute;
+  top: 70px;
+  width: 105px;
+}
+
+.text-wrapper-15 {
+  color: #406cff;
+  font-family: "Poppins", Helvetica;
+  font-size: 65px;
+  font-weight: 600;
+  left: 22px;
+  letter-spacing: 0;
+  line-height: 79px;
+  position: absolute;
+  top: 11px;
+  white-space: nowrap;
+}
+
+.group-6 {
+  border: 1px solid;
+  border-color: #393b3d;
+  border-radius: 12px;
+  height: 280px;
+  left: 454px;
+  position: absolute;
+  top: 0;
+  width: 392px;
+}
+
+.text-wrapper-16 {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 22.4px;
+  font-weight: 600;
+  left: 147px;
+  letter-spacing: 0;
+  line-height: 26.9px;
+  position: absolute;
+  text-align: center;
+  top: 197px;
+  white-space: nowrap;
+}
+
+.group-7 {
+  border: 1px solid;
+  border-color: #393b3d;
+  border-radius: 12px;
+  height: 280px;
+  left: 1280px;
+  position: absolute;
+  top: 119px;
+  width: 392px;
+}
+
+.text-wrapper-17 {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 22.4px;
+  font-weight: 600;
+  left: 149px;
+  letter-spacing: 0;
+  line-height: 26.9px;
+  position: absolute;
+  text-align: center;
+  top: 197px;
+  white-space: nowrap;
+}
+
+.overlap-6 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #707070;
+  border-radius: 53px;
+  height: 105px;
+  left: 139px;
+  position: absolute;
+  top: 70px;
+  width: 105px;
+}
+
+.text-wrapper-18 {
+  color: #406cff;
+  font-family: "Poppins", Helvetica;
+  font-size: 65px;
+  font-weight: 600;
+  left: 28px;
+  letter-spacing: 0;
+  line-height: 79px;
+  position: absolute;
+  top: 11px;
+  white-space: nowrap;
+}
+
+.index .t-c {
+  color: #858687;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  left: 410px;
+  letter-spacing: 0;
+  line-height: 19.2px;
+  position: absolute;
+  top: 921px;
+  white-space: nowrap;
+}
+
+.index .ellipse-6 {
+  background-color: #858687;
+  border-radius: 8.37px;
+  height: 17px;
+  left: 1750px;
+  position: absolute;
+  top: 60px;
+  width: 17px;
+}
+
+.index .ellipse-7 {
+  background-color: #858687;
+  border-radius: 8.37px;
+  height: 17px;
+  left: 1782px;
+  position: absolute;
+  top: 60px;
+  width: 17px;
+}
+
+.index .ellipse-8 {
+  background-color: #858687;
+  border-radius: 8.37px;
+  height: 17px;
+  left: 1814px;
+  position: absolute;
+  top: 60px;
+  width: 17px;
+}
+
+.index .ellipse-9 {
+  background-color: #858687;
+  border-radius: 18.85px;
+  height: 38px;
+  left: 1852px;
+  position: absolute;
+  top: 49px;
+  width: 38px;
+}
+
+.index .text-wrapper-19 {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 33.8px;
+  font-weight: 600;
+  left: 108px;
+  letter-spacing: 0;
+  line-height: 40.5px;
+  position: absolute;
+  top: 45px;
+  white-space: nowrap;
+}
